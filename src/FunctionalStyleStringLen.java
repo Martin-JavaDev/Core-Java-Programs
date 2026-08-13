@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.function.Function;
 
-public class CharacterFrequency {
+public class FunctionalStyleStringLen {
 
     public static void main(String[] args) {
         String name = "MartinRaaj";
