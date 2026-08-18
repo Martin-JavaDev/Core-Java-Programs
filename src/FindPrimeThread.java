@@ -1,7 +1,7 @@
 public class FindPrimeThread {
 
 
-//    Basic Thread Implementation
+    //    Basic Thread Implementation
     static void findPrimes(int start, int end) {
 
         int count = 0;
